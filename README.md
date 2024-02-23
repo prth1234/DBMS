@@ -59,5 +59,4 @@ Now that your environment is set up and the SQL dump is uploaded, you're ready t
 3-> Upload the combined_dump in your local sql
 4-> Run using the above command
     
-    ```
 
