@@ -51,3 +51,13 @@ Before running the application, you need to upload your SQL dump. Ensure you hav
 Use your preferred SQL client to upload the provided combined_dump.sql to your local SQL server.
 ### Running the Application
 Now that your environment is set up and the SQL dump is uploaded, you're ready to run the application.
+
+### Summary to install 
+  ```bash
+1-> Make a virtual python environment using anaconda / miniconda or any other source: https://www.anaconda.com
+2-> Download the streamlit library: https://docs.streamlit.io/library/get-started
+3-> Upload the combined_dump in your local sql
+4-> Run using the above command
+    
+    ```
+
